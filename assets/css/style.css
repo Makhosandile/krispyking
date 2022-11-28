@@ -132,12 +132,6 @@ button {
 
 /* Navbar */
 
-
-
-#navlink {
-  font: weight 900px;
-}
-
 .main-menu {
   position: fixed;
   display: -webkit-box;
